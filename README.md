@@ -1,73 +1,28 @@
-# Welcome to your Lovable project
+# 🌐 FreeFileHub — Your Free File Sharing Platform
 
-## Project info
+Welcome to **FreeFileHub**, a fast and easy-to-use web platform that lets users **upload, share, and download files** anytime — all for **free**.  
+No subscriptions. No limits. Just simple, secure file hosting for everyone.  
 
-**URL**: https://lovable.dev/projects/22bd380f-de3d-450a-baf6-15e4f7e74136
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+- 📤 **Instant Uploads** — Quickly upload any file with a single click.
+- 🔗 **Shareable Links** — Get a secure download link you can send to anyone.
+- ⚡ **Fast Downloads** — Files are served from a global CDN for maximum speed.
+- 🔒 **Privacy First** — All uploads are protected; only users with the link can access them.
+- 📱 **Responsive Design** — Works perfectly on mobile, tablet, and desktop.
+- 🌙 **Modern UI** — Built with React + TypeScript for speed, simplicity, and elegance.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/22bd380f-de3d-450a-baf6-15e4f7e74136) and start prompting.
+## 🧠 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+| Layer | Technology |
+|--------|-------------|
+| Frontend | React + TypeScript |
+| Backend | Node.js (Express) |
+| Database | PostgreSQL (Render Free Tier) |
+| Hosting | Render (Web Service) |
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/22bd380f-de3d-450a-baf6-15e4f7e74136) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
